@@ -1,6 +1,6 @@
 # Marwari-Learning-App
   
-  ![splash screen](https://github.com/vijayj3/Marwari-Learning-App/blob/master/screenshots/splash1.png)  
+  ![splash screen](https://github.com/vijayj3/Marwari-Learning-App/blob/master/screenshots/splash1.png) ![numbers screen](https://github.com/vijayj3/Marwari-Learning-App/blob/master/screenshots/numbers1.png) ![family screen](https://github.com/vijayj3/Marwari-Learning-App/blob/master/screenshots/family1.png)  
   An App to learn marwari. It is basic marwari and it translates to english. It also is supported by audio pronunciation to enhance your learning experience.
   
 ### Usage
